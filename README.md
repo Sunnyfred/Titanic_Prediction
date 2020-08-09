@@ -27,3 +27,4 @@ Version_3:
 	pandas
 	matplotlib
 	sklearn
+	seaborn
