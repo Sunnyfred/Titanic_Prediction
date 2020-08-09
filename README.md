@@ -28,3 +28,17 @@ Version_3:
 	matplotlib
 	sklearn
 	seaborn
+Version_4:
+
+	Combined train set and test set, do further feature engineering, all features are not removed for this time. Use basic RF 
+	after performing feature selection. There is no advance found in the result, the updated public score is .7511. Let's play
+	with the model in the next version.
+
+
+	Libraries employed:
+
+	numpy
+	pandas
+	matplotlib
+	sklearn
+	seaborn	
