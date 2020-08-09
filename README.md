@@ -15,3 +15,15 @@ Version_2:
 	pandas
 	matplotlib
 	sklearn
+
+Version_3:
+
+	Do feature engineering based on version_2, remove feature "Embarked", the updated public score is .78229.
+
+
+	Libraries employed:
+
+	numpy
+	pandas
+	matplotlib
+	sklearn
