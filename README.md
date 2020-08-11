@@ -42,3 +42,16 @@ Version_4:
 	matplotlib
 	sklearn
 	seaborn	
+	
+Version_5:
+
+	Based on the feature engineering of version 4, tuning hyperparameters using grid search. 
+
+
+	Libraries employed:
+
+	numpy
+	pandas
+	matplotlib
+	sklearn
+	seaborn	
