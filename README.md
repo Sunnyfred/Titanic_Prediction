@@ -46,6 +46,7 @@ Version_4:
 Version_5:
 
 	Based on the feature engineering of version 4, tuning hyperparameters using grid search. 
+	Public score reach to 0.78468.
 
 
 	Libraries employed:
