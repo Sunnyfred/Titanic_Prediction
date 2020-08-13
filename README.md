@@ -56,3 +56,14 @@ Version_5:
 	matplotlib
 	sklearn
 	seaborn	
+	
+Version_6:
+
+	Futher feature engineering, tuning hyperparameters using grid search, ensemble voting method. 
+	Public score reach to 0.76794.
+	
+Version_7:
+
+	Based on version_5, optimizing random forest model.
+	Public score reach to 0.79186.
+	
