@@ -67,3 +67,5 @@ Version_7:
 	Based on version_5, optimizing random forest model.
 	Public score reach to 0.79186.
 	
+Credit: (https://www.kaggle.com/vbmokin/titanic-top-score-one-line-of-the-prediction) &
+(https://www.kaggle.com/eraaz1/a-comprehensive-guide-to-titanic-machine-learning)
